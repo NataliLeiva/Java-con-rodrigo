@@ -10,7 +10,12 @@ package archivojava;
  * @author sosar
  */
 public class ArchivoJAVA {
+
 public class ClaseCaballo {
+=======
+public class perro{
+    
+
 }
     /**
      * @param args the command line arguments
